@@ -1,2 +1,6 @@
-# MINET
-Streamlit
+"""
+
+Data visualisation Project
+Prerequisites:Pandas,Streamlit,MySQLdb
+
+"""
